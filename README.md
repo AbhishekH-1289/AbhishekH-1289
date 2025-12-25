@@ -1,4 +1,4 @@
-# Abhishek-1289
+# AbhishekH-1289
 
 <h1 align="center">Hi 👋, I'm Abhishek Anil Humane</h1>
 <h3 align="center">I’m a curious and creative learner who enjoys exploring coding along with my hobbies like reading, traveling, and sketching. I have beginner-level experience in **Java, HTML, CSS, JavaScript, and SQL**, and I’ve used them to build small college projects and event-based applications. I’m still new to coding, but I enjoy learning, experimenting, and improving with every project I make.</h3>
